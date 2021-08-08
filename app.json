@@ -1,7 +1,7 @@
 {
   "name": "No PMs Bot",
   "description": "Modular  Telegram Bot powered by @PyroGram!",
-  "logo": "https://telegra.ph/file/55501e726922e79b8eea9.png",
+  "logo": "https://telegra.ph/file/10342311dfce3476a6329.jpg",
   "keywords": [
     "telegram",
     "bot",
@@ -29,7 +29,8 @@
       "description": "List down the user IDs who should have permission to use and reply to users, seperated by SPACE. To get user ids, send /id command to Telegram @OwnErObOT"
     },
     "SUB_CHANNEL": {
-      "description": "Id of Chat, where the User Should Join, in order to use/contact throught bot."
+      "description": "Id of Chat, where the User Should Join, in order to use/contact throught bot.",
+      "required": false
     }
   },
   "addons": [{
